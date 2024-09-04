@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "주부토로"
+title                    : "주부토로의 개발자 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "주부토로"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "주부토로"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발하는 기획자"
+  bio              : "명지대학교 철학과/미술사학과 복수전공<br>하지만 개발하는 기획자"
   location         : "대한민국"
   email            : "hkhh2512@gmail.com"
   links:
